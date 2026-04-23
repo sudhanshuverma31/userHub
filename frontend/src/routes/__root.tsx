@@ -47,7 +47,7 @@ function RootComponent() {
           <div className="w-8 h-8 rounded-lg bg-gradient-to-br from-blue-600 to-indigo-600 flex items-center justify-center text-white font-bold shadow-lg">
             U
           </div>
-          <h1 className="text-xl font-bold tracking-tight">UserHub</h1>
+          <h1 className="text-xl font-bold tracking-tight">UsersHub</h1>
         </div>
         <div className="flex items-center gap-3">
           {/* Dark mode toggle */}
